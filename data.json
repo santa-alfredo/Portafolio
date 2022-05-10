@@ -1,7 +1,7 @@
 {
-    "name": "Kaustubh Odak",
+    "name": "Alfredo",
     "landing": {
-        "title": "Hi, I'm Kaustubh",
+        "title": "Hello, I'm Alfredo Santa Cruz",
         "subtitles": [
             "Full-stack developer 🌐",
             "Cross-platform developer 📱💻",
@@ -11,24 +11,19 @@
         ],
         "professionalDetails": [
             {
-                "alt": "kaustubh-odak",
+                "alt": "Alfredo Santacruz",
                 "icon": "linkedin",
-                "link": "https://www.linkedin.com/in/kaustubh-odak/"
-            },
-            {
-                "alt": "kausko",
-                "icon": "stackoverflow",
-                "link": "https://stackoverflow.com/users/15832433/kausko"
+                "link": "https://www.linkedin.com/in/alfredo-santa-cruz-nagua-ab1778129/"
             },
             {
                 "alt": "kausko",
                 "icon": "github",
-                "link": "https://github.com/kausko"
+                "link": "https://github.com/santa-alfredo"
             },
             {
                 "alt": "Email",
                 "icon": "gmail",
-                "link": "mailto:iam@kaustubhodak.me,kaustubhodak1@gmail.com"
+                "link": "santa.alfredo@gmail.com"
             }
         ]
     },
