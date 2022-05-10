@@ -2,6 +2,7 @@ import React, { useCallback } from 'react';
 import { AppBar, Container, IconButton, makeStyles, Toolbar, Typography, useScrollTrigger, useTheme } from '@material-ui/core';
 import Landing from '../src/Landing';
 import Skills from '../src/Skills';
+import SkillDocencia from '../src/SkillDocencia';
 import Projects from '../src/Projects';
 import Experience from '../src/Experience';
 import About from '../src/About';
@@ -76,7 +77,8 @@ export default function Index({ projects, setTheme }) {
       <Container>
         <Landing />
         <Skills />
-        <Projects data={projects}/>
+        <SkillDocencia/>
+        {/* <Projects data={projects}/> */}
         <Experience/>
         <About/>
       </Container>
